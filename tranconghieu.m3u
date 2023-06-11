@@ -1,0 +1,677 @@
+#EXTM3U
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/264?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c264976a436a86b184a52838749b82fd",{name-not-set}
+http://server.vinhhomelab.cloud:9981/stream/channelid/1788306626?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/265?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c094aa01fda347fe6b6f9af1d7095d6b",ABC AUSTRALIA (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/27956416?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/266?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e81b5f0a3d4c7c71d61293f2f64b85f6",ABC AUSTRALIA (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/174005224?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/267?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="2d7ba716cc08238909cc76ae38108f81",An Giang
+http://server.vinhhomelab.cloud:9981/stream/channelid/380074797?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/268?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="df4542af7d19d5e5e873b91b766f536f",Animal Planet (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/792872415?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/269?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5a3064fa249879c4033f708dcc11d324",Animal Planet (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2053386330?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/270?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="04bb9f08facad72a5fc65f6522f39b5d",Animax (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/144685828?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/271?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="62c96827799dc106a2fb5f80586d8cbe",Animax HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/661178722?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/272?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c594506f26eb037a16357bff1eb155af",Animax HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1867551941?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/273?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9c19e4b96871b10c560df803947f2c5c",ANTV HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/971250076?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lvYjN2D.jpg" tvg-id="9f92fb675e2725601bd72da05dac093e",ANTV HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1744540319?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lvYjN2D.jpg" tvg-id="897380670d7d64d2f19ce52f44a7f072",ANTV HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1736471433?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/274?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f6086745cfd88f24bff9b09782f7a5a7",Arirang
+http://server.vinhhomelab.cloud:9981/stream/channelid/1164380406?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/275?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f2e7f0d0600abe1a05494ffaaef5f947",arirang KOREA
+http://server.vinhhomelab.cloud:9981/stream/channelid/1357965298?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/276?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8277ff0cccd2f5811d5ae6c0e61865f9",Asian Food Network (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/218068866?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/277?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1a7a484a59915cf4c1bfee904d228ff4",Asian Food Network (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1246263834?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/278?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a1353c28e5947687a729a7b5c76924db",ATV _ TH An Giang
+http://server.vinhhomelab.cloud:9981/stream/channelid/675034529?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/279?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1dfdcb614280fb5ce73c4d3025722a11",AXN (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1640758557?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/280?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4ef70a2438bda66c0bddc1ea68bdbaeb",AXN (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/604698446?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/281?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c5c4d1bdc9c5ab057d0cb0fd42d10779",Baby TV (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1037157573?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/282?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ccbc896de46a308fca81a69dd3a273d9",Baby TV HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1837743308?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/283?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="28ba68d2c62d2eb050a2170cbb671cae",BabyTV (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1382595112?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/284?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="51e382169aca17db8c2f5b46459e5bf2",BBC CBeeBies (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/377676625?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/285?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="793ca08ce55042efe459c980e37b82c1",BBC CbeeBies (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/211827833?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/286?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="016dc256d72da7dffdf5828bf18f25d3",BBC CBeeBies HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1455582465?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/287?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ad05da52d8a91a21c82119e2444a38bc",BBC Earth (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1390020013?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/288?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b81a019c085d9684636da764cdd24b49",BBC earth HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/469834424?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/289?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="357d205b6f6860c28f290086885f2bcb",BBC lifestyle (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1528855861?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/290?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ca62f8f5b0d4d4456f7d4c8d24385e2e",BBC Lifestyle (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1979212490?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/291?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ba238378d21d65309ff5d14ad50d5b81",BBC WORLD NEWS (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2021860282?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/292?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1a59e28a153a59e3d066c117ea0b94ba",BBC WORLD NEWS (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/182606106?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/293?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1cc64fa972b1d5568b560016bc2efe4f",BGTV _ TH Bắc Giang (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/693093916?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/294?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ecfb586028283be82a51650c3b536c7d",BGTV HD _ TH Bắc Giang
+http://server.vinhhomelab.cloud:9981/stream/channelid/1616444396?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/295?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="aa28c3833c85e79117a24a8034d58efd",BLOOMBERG (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/63121578?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/296?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="0955da79602c638c09ce758baeaec64c",Bloomberg (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2044351753?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/297?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="48ee0013459cd231c700dceb4698c1ce",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/318828104?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/298?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f7646666a2a35ae17ce15997d25c8fa9",BPTV1 _ TH Bình Phước
+http://server.vinhhomelab.cloud:9981/stream/channelid/1717986551?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/299?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="eb62e207b80ea3b3933c20389991b46f",BPTV2 _ TH Bình Phước
+http://server.vinhhomelab.cloud:9981/stream/channelid/132276971?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/299?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7d0e906cf3d8e378e8c61c380e99338a",BPTV2 _ TH Bình Phước
+http://server.vinhhomelab.cloud:9981/stream/channelid/1821380221?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/300?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="12bc75b12fb360236cae89ab770d082d",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/829799442?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/301?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ef066155fd93913320d8892c194d0f59",BTV _ TH Bình Định (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1432422127?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/302?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="11d6c98341c0150994eb9bff366a1ee9",BTV _ TH Bắc Ninh (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/63559185?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/303?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="aaaefa10993a5c73bb3ec96ee73d88c8",BTV HD _ TH Bình Thuận (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/284864170?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/304?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="961cfe47bd1f13ed73776d8f8074b5ca",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1207835798?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/305?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="add3c686738721cbe331d1673643a118",BTV11 TOP Home Shopping
+http://server.vinhhomelab.cloud:9981/stream/channelid/113693613?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/305?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3d751834f2a15366c95a78163a5e5a75",BTV11 TOP Home Shopping
+http://server.vinhhomelab.cloud:9981/stream/channelid/874018109?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/306?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ba0dfc78f84fb6e93a0a052de03db186",BTV2 HD _ TH Bình Dương
+http://server.vinhhomelab.cloud:9981/stream/channelid/2029784506?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/307?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4329f86dfffb36b54175499f47cabfef",BTV2 HD _ TH Bình Dương (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1844980035?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/308?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8995cbab4727ccff09db59a63c1df4ea",BTV3 HD _ TH Bình Dương (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/734762377?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/309?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f9be1a04b82923d85fa4ff051504f741",BTV4 HD _ TH Bình Dương
+http://server.vinhhomelab.cloud:9981/stream/channelid/68861689?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/310?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5d238180b55349e318af567b7027a0a2",BTV4 HD _ TH Bình Dương (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/8463197?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/311?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8738f00fc2846264e362563b54332225",BTV6 _ TH Bình Dương
+http://server.vinhhomelab.cloud:9981/stream/channelid/267401351?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/311?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c56a26d3d7a88508e430386c5f059462",BTV6 _ TH Bình Dương
+http://server.vinhhomelab.cloud:9981/stream/channelid/1395026629?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/312?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7da7930a6fd366de36d4cae4b3a54330",BTV9 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/177448829?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/313?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b5c244f8723b7a4f1b3505d95676bbf6",BTV9 An Viên HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/2017772213?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/314?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1abc38a9433e7b78b7b2d13a2fcb2fbc",Bình Dương 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/691584026?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/315?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7639d9cc133962bc2db9f64e3bd9c968",Bình Dương 3 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1289304438?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/316?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="00fefc9b1150b80d768d9fd796d40fa2",Bình Phước 1
+http://server.vinhhomelab.cloud:9981/stream/channelid/469564928?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/317?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="71a81acc8979098f7205038e6103ef33",Bình Thuận
+http://server.vinhhomelab.cloud:9981/stream/channelid/1276815473?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/318?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="6d452de471f2942b122d77ce60cbc38d",Bình Định
+http://server.vinhhomelab.cloud:9981/stream/channelid/1680688493?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/319?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="06c64ed49adee7862f2f484fa78f1d63",Bắc Ninh HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1414448646?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/320?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4334f6750305090fc2b48237bf26d1e5",Bến Tre HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1979069507?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/321?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="695c38c58863b566ec87e3a49d45a58a",Cao Bằng
+http://server.vinhhomelab.cloud:9981/stream/channelid/1161321577?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/322?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3b8a172598257de654f9c781a7da164f",Cinema World (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/622299707?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/323?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="493d1a1a8fa4ce673c5256274b99d47d",Cinema World (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/437927241?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/324?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="974166f4fb970ec5a4c2e5e39f231f96",CINEMAX HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1952858519?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/325?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="558bb1bf8b807e1cb397f8f14338093f",CNA (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1068600149?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/326?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="235e371fb72746d2dfb9d28121c397ae",CNA (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/523722275?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/327?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="bade65307319345ba357c6b062c915fc",CNA HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/811982522?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/328?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1b7f7297a0b1977979f52e475fc4aefc",CNBC
+http://server.vinhhomelab.cloud:9981/stream/channelid/393379611?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/328?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b18b8b5084a17fda6fcb89edc68755f1",CNBC
+http://server.vinhhomelab.cloud:9981/stream/channelid/1351322545?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/329?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="0996d99132f257a19580fcaa6b1c6581",CNN (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/299472393?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/330?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3b6adcac2a235d6fd1620c53bdb12a38",CNN (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/752642619?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/331?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c49e1caeb77912d67a85207b4fe32759",CNN HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/773627588?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/332?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d6a9ac9c1e7b44d291a7b3b01579a7b3",CRTV HD _ TH Cao Bằng (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/481077718?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/333?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="06b9e775cfea6a496b7250c94d6bfed4",CTV HD _ TH Cà Mau (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1978120454?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/334?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="17e7b276097f79b43973777b0ace6f0c",Cà Mau HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1991436055?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/335?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="05276877e17672b65f7194c59b8c5f89",Cần Thơ
+http://server.vinhhomelab.cloud:9981/stream/channelid/2003314437?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/336?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e00ef7d8727bef8fd543486f9298ae51",Da Vinci (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1492586208?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/337?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="fece277c1145eac12173bb4cbb16288f",Da Vinci (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2082983678?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/338?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="948e6f915fe0f6889bcc7c608ae4ec99",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/292523668?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/339?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b9076ebe59c489e03da42fb0516f9cab",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1047398329?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/340?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e094ca721bbcebe3f720cc1aa365216c",Discovery Channel (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1925879008?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/341?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1c638caab85162e293d2568078623f1c",Discovery Channel (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/713843484?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/342?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c349324f24f36b64763440dab024afea",Dolife Hospital
+http://server.vinhhomelab.cloud:9981/stream/channelid/1328695747?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/343?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="21bbfc833ff8c027f1041d0ca1716e8f",Dreamworks HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/66894625?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/344?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e44f56d4246042cb237e6ea590a585c1",DRT HD _ TH Đắk Lắk (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1414942692?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/345?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="723b539c0dc8f447ae61878e95eb9ef2",DW (Eng) HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/475216754?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/346?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c6b02d48162a4a8bd0374d3ef2630f89",DW (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1210953926?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/347?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d2ae45c2df44123aa1bba55df8fe45d5",DW (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1111862994?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/348?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="fd6b803d0dca96af738bf4ababbac8b9",Fashion TV HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1031826429?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/349?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="69452501388c96ee27e3ad1004bffce5",FPT Giới Thiệu Chương Trình
+http://server.vinhhomelab.cloud:9981/stream/channelid/19219817?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/350?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="132671c391006988d7cac701ca823c44",FPT Play Giới thiệu chương trình
+http://server.vinhhomelab.cloud:9981/stream/channelid/1131488787?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/350?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8c98f174d28eda4f3a6516e62eac0360",FPT Play Giới thiệu chương trình
+http://server.vinhhomelab.cloud:9981/stream/channelid/1961990284?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/351?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="05cbb592239272b0a6f8cfea7dd89afa",France 24 (eng) HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/313903877?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/352?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="eab331a2e1e3edd9b7a5691d34dbcc39",FRANCE 24 (English) (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/573682666?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/353?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5cd40950bd7a40f56ce2b45818783357",FRANCE 24 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1342821468?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/354?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c2cca49d4fe3a0611f900d3627b9075b",Gia Lai HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/497339586?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/355?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f201f7a716dd8c7613b3ce91a72fa5fc",Grand Phoenix Hotel
+http://server.vinhhomelab.cloud:9981/stream/channelid/670499314?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/356?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="feebbac96b5dd1d608996b7c6727e4c0",GS Shop
+http://server.vinhhomelab.cloud:9981/stream/channelid/1236986878?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/357?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7b1d20dfd5c3f06cb369af7fa7d93bea",H1 _ TH Hà Nội
+http://server.vinhhomelab.cloud:9981/stream/channelid/1595940219?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/358?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a14405b7e5c7037ec8216f8938dc841f",H1 HD _ TH Hà Nội (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/923092129?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/359?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7e2b6de548e18affc29d2baeba537355",HBO HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1701653374?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/360?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d1555af53e964e7fc27e5a205f444604",HBTV HD _ TH Hòa Bình (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1968854481?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/361?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f1729b0fcb81e8be51149596efd46a46",HCATV2 YouTV
+http://server.vinhhomelab.cloud:9981/stream/channelid/261845745?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/362?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e3469c1f00273c5a844ce335cad2c53f",HGTV _ TH Hà Giang (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/530335459?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/363?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="27df7c89c6bed2e875d16b293227bd17",HGTV HD _ TH Hậu Giang (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/159178535?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/364?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ee3a7faafe8f4d63bd0a0b9c676f07a9",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/712981230?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/365?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b5453fa5a78871123499e1ad2a08419f",HTV Keys
+http://server.vinhhomelab.cloud:9981/stream/channelid/624903605?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Qe0DqXp.jpg" tvg-id="209914b5f323387c020f78706f69b663",HTV Keys
+http://server.vinhhomelab.cloud:9981/stream/channelid/890542368?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qfbVPVK.jpg" tvg-id="b47f021c3319b41fd72e79c3f9aea0c4",HTV THỂ THAO (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/469925812?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qfbVPVK.jpg" tvg-id="a449457f09aa629cca508cefd4ccd81d",HTV THỂ THAO (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2135247268?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/366?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="2f4fb9de52495789e38b4ae4324acaed",HTV1
+http://server.vinhhomelab.cloud:9981/stream/channelid/1589202735?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/XaaTCtg.jpg" tvg-id="d4887e6d25f6ac22a7bec7854a01da24",HTV1
+http://server.vinhhomelab.cloud:9981/stream/channelid/1837009108?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/aFUOlhc.jpg" tvg-id="b926879d04ed17b4410192e43abddf62",HTV2 Vie Channel (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/495396537?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/aFUOlhc.jpg" tvg-id="1e9a773ac4d0474ec4b48459d381edae",HTV2 Vie Channel (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/980916766?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/367?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f263f8a4a7da137aeab0804ef1aaf864",HTV2 Vie Channel HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/620258290?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/fd4tJg2.jpg" tvg-id="ed2b72a81da9e7addfbc648ef21b4823",HTV3
+http://server.vinhhomelab.cloud:9981/stream/channelid/678570989?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/368?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b371be48b4df1f6fc4d48af4574edf2f",HTV3 Dreams TV
+http://server.vinhhomelab.cloud:9981/stream/channelid/1220440499?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/369?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d73144a18edead877a255bd88bfa2163",HTV7 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/558117335?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/6iugioT.jpg" tvg-id="5c0700008214554e258f374ea4f573e1",HTV7 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1884?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/6iugioT.jpg" tvg-id="f46fb06ebbc4a5d03d59fc1ac547552b",HTV7 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1857056756?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/370?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b2b4d652ef7e7f4934c18fcb5cba0f64",HTV9 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1389802674?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/KnpPVUB.jpg" tvg-id="f77600528f31ff3bb545e5c94fa4e78d",HTV9 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1375762167?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/KnpPVUB.jpg" tvg-id="5746150d6f0aad1c5e88e8abcd1af688",HTV9 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/219498071?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pQYcNMU.jpg" tvg-id="63919d1e57c1c63e693f2477b2e299fb",HTVC Ca Nhạc (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/513642851?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pNG3Fri.png" tvg-id="41479f1ea3ec56507113518d90f1f0fc",HTVC Phim (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/513754945?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/371?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="798bd904ae50a277d80d1c910191279f",HTVC Phim HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/81365881?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/LFL1x49.jpg" tvg-id="b6e33b3a41393833a2a44c50b3c2d77e",HTVC Thuần Việt (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/977003446?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/LFL1x49.jpg" tvg-id="4dd654f6ac7c73c37ff67b133b11dcf6",HTVC Thuần Việt (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1985271373?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/372?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="97c24254f869160ccecdd3540cff50d9",HTVC VGS SHOP
+http://server.vinhhomelab.cloud:9981/stream/channelid/1413661335?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/372?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a2376de59f79d42c7b1510fbb60a8e7a",HTVC VGS SHOP
+http://server.vinhhomelab.cloud:9981/stream/channelid/1701656482?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/373?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a561c1e7716512d76f545b1df6fffc22",HY _ TH Hưng Yên
+http://server.vinhhomelab.cloud:9981/stream/channelid/1740726693?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/374?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="6c0d343079b6d0e83a3d5aa8c1c3f621",Hà Giang HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/808717676?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/375?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4e1a70fcfac53a7ba6d19a690926feb1",Hà Nam
+http://server.vinhhomelab.cloud:9981/stream/channelid/2087721550?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/376?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9f2bbc597103935ef74b68389daa63d7",Hà Nội 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1505504159?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/377?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="26af16d42ccd15d1bc6279c80a981e24",Hà Tĩnh
+http://server.vinhhomelab.cloud:9981/stream/channelid/1410772774?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/378?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e47a8bf22b00b61d740baa7104cd69b2",Hòa Bình
+http://server.vinhhomelab.cloud:9981/stream/channelid/1921743588?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/379?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ab7a686196b246adead79db8dcaf0d96",Hưng Yên
+http://server.vinhhomelab.cloud:9981/stream/channelid/1634237099?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/380?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="bd791d5eff35c425f8be205338ca82f5",Hải Dương
+http://server.vinhhomelab.cloud:9981/stream/channelid/1578990013?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/381?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="af2c0ef2d3fcaae27f807a506f8c3cc1",Hải Phòng + HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1913531567?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/382?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="960fb71c52d1f24b0808c8f6d48f3c07",Hải Phòng HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/481759126?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/383?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="852ea74719f691b6b4f9dd15e9d696d6",Hậu Giang
+http://server.vinhhomelab.cloud:9981/stream/channelid/1202138757?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/384?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="82b049429d06b57d13a71cecd7fff05c",KBS WORLD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1112125570?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/385?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9a09fd647d5aed853bde76f71a70b6fa",KBS WORLD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1694304666?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/386?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f42a4f19fa5de4ba662657f38829fc9c",KG _ TH Kiên Giang (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/424618740?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/387?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1e9432d227456a66524b0f94f8e81c83",Khánh Hòa HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1379046430?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/388?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9b007099c3e9321700d9de9c58fea554",KIX (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/426770587?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/389?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7fb77a9ae5d2017967ed594ae3de6da0",KIX (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/444249983?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/390?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9308be94686a504b416f0e5951500775",Kix HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/347998355?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/391?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="2f4c1d776c4adaf1f4a9892c66ecc45c",Kiên Giang
+http://server.vinhhomelab.cloud:9981/stream/channelid/1998408751?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/392?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1bc85621801264b4da9358304d4154cd",Kon Tum
+http://server.vinhhomelab.cloud:9981/stream/channelid/559335451?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/393?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b740ff737e2237741b130a2875fb8d74",KRT _ TH Kon Tum (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1946108087?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/394?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8943f3c0fc0aca6f70e8c2214b2ce9f7",KTV HD _ TH Khánh Hòa (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1089684361?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/395?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3dc3694ffde752f7f75ea97293727d48",LA34 _ TH Long An
+http://server.vinhhomelab.cloud:9981/stream/channelid/1332331325?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/396?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="85c09edf03329082a7e3ce6cd49d02aa",Lai Châu HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1604239493?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/397?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d781402f4fe9b81b74f85eab054e50d2",Long An
+http://server.vinhhomelab.cloud:9981/stream/channelid/792756695?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/398?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="48e2cfc3b11e093ff7d534a9fe7d5787",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1137697352?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/399?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c0f407e7fc1b798ed2514003d04605c6",LTV HD _ TH Lai Châu (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1728574656?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/400?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d60c24fd596b4ae9113a3c94a672a20b",LTV HD _ TH Lâm Đồng (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2099514582?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/401?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ed95740ef001b7e55f456935ca415967",Lào Cai
+http://server.vinhhomelab.cloud:9981/stream/channelid/242521581?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/402?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e3f07f4da50cda1c40d4b590c32fb5ca",Lâm Đồng
+http://server.vinhhomelab.cloud:9981/stream/channelid/1300230371?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/403?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ac5a76e8d5492784bb34d3faaf0eb558",Lạng Sơn
+http://server.vinhhomelab.cloud:9981/stream/channelid/1752586924?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/404?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="0640416386f82d215a5b9d995f2a5709",Nam Định
+http://server.vinhhomelab.cloud:9981/stream/channelid/1665220614?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/405?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7a9914badfe101e0c27e8e97c343959c",NAT GEO WILD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/974428538?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/406?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d1dd54a6a1bba0b73eac724d9f70f2c0",NAT GEO WILD HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/643096017?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/407?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ec98cbc747150b70c71d167dfb421a0a",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1204525292?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/407?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="65f2ddf58a528b369363a38f48d2ccd1",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1977479781?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/408?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="58747caafe1de59805452f5b9817f228",Nghệ An
+http://server.vinhhomelab.cloud:9981/stream/channelid/712799320?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/409?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a9c5447a78d0bc57b5d2e92d911a73c3",NHK WORLD JAPAN (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2051327401?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/410?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3b5f591e7d0828d579ae4aa3ed1b51ef",NHK WORLD JAPAN (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/509173563?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/411?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d9b7e5ec2631853e4bed913c674ae279",NHK World Japan HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1826994137?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/kzrCtPg.jpg" tvg-id="9af2c25e0824a6e9e66cac6c79a8697f",Nhân Dân TV (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1589834394?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/kzrCtPg.jpg" tvg-id="ea87f9b65271d798e493464a514e5e5f",Nhân Dân TV (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/922322922?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/412?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e31969cfc599317b3c6afcd99aa3b5e2",Ninh Bình
+http://server.vinhhomelab.cloud:9981/stream/channelid/1332287971?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/413?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5b00b379cb69b613a77f377c89147395",Ninh Thuận
+http://server.vinhhomelab.cloud:9981/stream/channelid/2041774171?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/414?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8c02c044ce0eb80c1a272d5a564be706",NTV _ TH Nam Định
+http://server.vinhhomelab.cloud:9981/stream/channelid/1153434252?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/415?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="1a292398661dd534a99536bedcf0470a",NTV _ TH Ninh Thuận
+http://server.vinhhomelab.cloud:9981/stream/channelid/404957466?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/416?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9f2650ddf134601f6dace1367d7abcd5",NTV HD _ TH Nghệ An (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1565533855?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/417?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c0f95eb5131ff9de1d107d2dd6b2ccc7",NTV HD _ TH Ninh Bình (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/895416768?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/418?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5e0ac355cb7e39978c0abde5e2518442",Outdoor Channel (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1438845534?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/419?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="020cd52bc26a000cbccf0f1c53a01735",Outdoor Channel (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/735382530?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/420?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7e860b0c39b1d1e05c7eb10cf4a15aae",Outdoor Channel HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/202081918?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/421?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="586131619f12b979d26a4aca1cf77135",Phú Thọ HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1630626136?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/422?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="16ade0f4989893bf84797fbff8988f27",Phú Yên HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1960881430?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/423?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c276189dff9dd1ed0b9eba052ce42a2c",PTP HD _ TH Phú Yên (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/488142530?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/424?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c4cca94509d72f0a08c73ad984e74e6b",PTQ _ TH Quảng Ngãi (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1168755908?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/425?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="bbe9e16e5c32da7ef6291f2f7fadfa58",PTV HD _ TH Phú Thọ (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1860299195?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/426?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="144e45073032c11e4e358cab3af07e9e",QBTV _ TH Quảng Bình
+http://server.vinhhomelab.cloud:9981/stream/channelid/121982484?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="bec52d851843f748c14c00247de9c01c",QPVN (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/86885822?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="e961cf84e780eeaf1051e7bef43cb4a8",QPVN (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/80699881?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/427?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3fd69eb00ca5dfc67cf48f2460207346",QRT HD _ TH Quảng Nam (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/815715903?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/428?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9725f54fe0e22324f91ea04867fe5362",QRTV HD _ TH Quảng Trị (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1341466007?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/429?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d5902307d568b03b5eff05863bd45b78",QTV1 _ TH Quảng Ninh
+http://server.vinhhomelab.cloud:9981/stream/channelid/119771349?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/430?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="64c991e066b560b9694fa7d0cfe408a3",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1620167012?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/431?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e216208cd3cfa018aa49f2ec647e62eb",QTV3 _ TH Quảng Ninh
+http://server.vinhhomelab.cloud:9981/stream/channelid/203429602?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/431?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="edf1bfeaa17cfa466465099799fa9cf6",QTV3 _ TH Quảng Ninh
+http://server.vinhhomelab.cloud:9981/stream/channelid/1790964205?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/432?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c8fb6a258ecdcc2ab9824192eabf757b",Quảng Bình HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/627768264?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/433?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="94e1bc91fff48c5d8a6edb6b9e2958d2",Quảng Nam
+http://server.vinhhomelab.cloud:9981/stream/channelid/297591188?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/434?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b69be866181f7871efefbb40b3c5c9c5",Quảng Ngãi HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1726520246?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/435?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="0a9d7a9cb29e5511a5b773107b17946f",Quảng Trị
+http://server.vinhhomelab.cloud:9981/stream/channelid/477797642?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/713vQig.jpg" tvg-id="99fba92f0f2623498f091cc3b8c9aba1",Quốc Hội HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/799669145?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/713vQig.jpg" tvg-id="a6dc6a0a540acd3d84cf93ae146800cb",Quốc Hội HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/174775462?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/436?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="638083eac0f06632367356d8e8dcc473",SCTV6 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1787002979?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/437?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="7d379006ef15a091a1c6bb988c9e3697",SCTV6 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/110114685?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/438?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ac24f0c6b2976633fa0823c406b16994",STV _ TH Sơn La
+http://server.vinhhomelab.cloud:9981/stream/channelid/1190143148?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/439?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="247a3403303f05ec38ddeee23d208fe0",STV1 _ TH Sóc Trăng
+http://server.vinhhomelab.cloud:9981/stream/channelid/53770788?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/440?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="669f66fdda89323b58b51f93cd335b47",Sóc Trăng 1
+http://server.vinhhomelab.cloud:9981/stream/channelid/2103877478?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/441?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="010b664e752d6ce7df5615df0c0feac0",Sơn La
+http://server.vinhhomelab.cloud:9981/stream/channelid/1315310337?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/442?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="075ef8381f56d3e0110f59bbbb02870c",TBK HD _ TH Bắc Kạn
+http://server.vinhhomelab.cloud:9981/stream/channelid/955801095?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/443?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e3fb975cc675439a965e5593300c3392",TBK HD _ TH Bắc Kạn (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1553464291?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/444?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="59d140f89cbaf725c533be6b2975c4d1",TBTV HD _ TH Thái Bình (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2017513817?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/445?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d1c7cec309c025fac2ebfa11d377da3a",Thanh Hóa
+http://server.vinhhomelab.cloud:9981/stream/channelid/1137625041?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/446?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f5c93585b67de145cbc201e6099c2bae",THBT HD _ TH Bến Tre (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/87411189?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/447?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4b40238e53e5818929e26bbd3543993b",THD _ TH Hải Dương
+http://server.vinhhomelab.cloud:9981/stream/channelid/237191243?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/448?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="defa339a8274dcdef6b2b102120b9783",The Mira Hotel
+http://server.vinhhomelab.cloud:9981/stream/channelid/439614174?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/449?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="58eb85bdbd72af40b2d937ac530738ce",The Ocean Resort
+http://server.vinhhomelab.cloud:9981/stream/channelid/1032186712?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/450?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b7de5ed63983c4e0f72764d30631704b",THGL HD _ TH Gia Lai (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1449057975?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/451?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3a961696694ba1bb03c6638ccdecd099",THHN _ TH Hà Nam
+http://server.vinhhomelab.cloud:9981/stream/channelid/370579002?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/452?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="16235bb7b0105a1f091d89e927925be4",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/928719638?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/453?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4006642a3110ba861b223a31b4a2fecc",THP+ HD _ TH TP. Hải Phòng (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/711198272?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/454?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5f5802c23bab67198516d97aba17ceed",THTG HD _ TH Tiền Giang (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1107449951?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/455?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="6e9acbaffc84cff63382487bdb387246",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/801872494?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/456?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="634ba8ee0d9fc86ada23ac7386c3e2a8",THTV HD _ TH Trà Vinh (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1856523107?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/457?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c6e7bc43f6f370232d28595ab1e8ffe9",THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1136453574?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/458?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="09e4ce721405f9f5940c9780eb64d7d6",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1926161417?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/459?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="84fc4b368d06a188aa636307b8e876bf",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/910949508?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/460?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="2a652e7d8eb8be0b5420d60135e5c584",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2100192554?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/461?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="925f7f9ac849581f62f180eaae1ed1d8",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/444555154?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/462?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="bac545c7247841a180cc98adb0dea523",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1195754938?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/463?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d156394ef226cfdeeae717297b305f62",THVL4 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1312380625?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/464?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d7c486fc8ef3c1a7b6574d8f2fdfe47c",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2089206999?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/465?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="b686bd8320eb5d1f5248c8cef5e4c99b",Thái Bình
+http://server.vinhhomelab.cloud:9981/stream/channelid/62752438?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/466?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c9ac0c0d4bddabd9c4c750280c836ca1",Thái Nguyên 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/218934473?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/467?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3781d7d4d5cf5e8e4b98290bef21f220",THĐT1 HD _ TH Đồng Tháp (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1423409463?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/468?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="062a0d031f7873482b33eff3186a9863",THĐT2 Miền Tây _ TH Đồng Tháp (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/51194374?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/469?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="01e6aca8b900e055ad366b672e11f8da",Thừa Thiên Huế
+http://server.vinhhomelab.cloud:9981/stream/channelid/682419713?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/470?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8796d1d6483fc0f1c5fb01f30c1dd6f6",Tiền Giang
+http://server.vinhhomelab.cloud:9981/stream/channelid/1456576135?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/471?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8c39306771e20e97b13dc812dbe77971",TLC (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1731213708?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/472?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="478d42945a57bb657d73bf773dbec216",TLC (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/339905863?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/473?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a1c92835526f2405d8dbfb07bbba1837",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/891865505?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/474?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="62e3b5acf2c91bbbe94f01949124eec6",TRT _ TH Thừa Thiên Huế
+http://server.vinhhomelab.cloud:9981/stream/channelid/750117730?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/475?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="f65c1f39ea749d7cb0ffbb71b0a57ec8",Trà Vinh HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/958356726?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/476?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="202e8c6e33f20d6653b9179419fe39b0",TTV _ TH Thanh Hóa
+http://server.vinhhomelab.cloud:9981/stream/channelid/1854680608?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/477?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9432ce7cb0f6db9e8a27ff794c85376b",TTV HD _ TH Tuyên Quang (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2093888148?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/478?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="19da98ba78e2131d991419efe6e53135",TTV11 _ TH Tây Ninh (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/983095833?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/479?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c203bcb5e070fbf606c0233c021691d1",Tuyên Quang HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/901514178?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/480?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="348aef73c2dbd8b66c13a8095cec0a95",TV5 MONDE ASIE (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1945078324?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/481?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e8a6800628cc573bab2e3e163ca35ef8",TV5 MONDE ASIE (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/109094632?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/482?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="5f8a602139e8f5b5bed930cd72148042",TV5 Monde Asie HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/559975007?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/483?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="45c10245ea20fa9a0852f0c2def022df",Tây Ninh 11 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1157808453?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="faa426f7b73c6e24f9f8a820cf13c0da",VNEWS (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1999021306?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Lh9aWAL.jpg" tvg-id="15e6c419d05213a171ab0e3802bd3fda",VNEWS (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/432334357?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/484?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ca304105fb3367b8f8fa8025fe711228",VNEWS HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/88158410?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/485?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9a0b3e1a58d8feba4866d5fa69e928e7",VOV TV
+http://server.vinhhomelab.cloud:9981/stream/channelid/440273818?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/MGLFyKb.png" tvg-id="7057131c5a8ca6f690f25da9c170e35a",VOV TV
+http://server.vinhhomelab.cloud:9981/stream/channelid/471029616?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/486?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="926d5b8455e03106529ca3a270ee327b",VP HD _ TH Vĩnh Phúc (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/73100690?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/487?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e6fcf28355083f934b6992d1f6863419",VTC1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/66256102?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/Pc2ZuX0.png" tvg-id="ef9d53d3e9551e119458d2ed2a020cc5",VTC1 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1397988847?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/F6x7ZNA.png" tvg-id="82f6ac6bf2a873c8ea156dcbf36238b1",VTC10 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1806497410?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/F6x7ZNA.png" tvg-id="9050b5c1f917341c81274b4dd2d95382",VTC10 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1102401680?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/488?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="06e100ee5579deb4cd5edd782f975411",VTC11
+http://server.vinhhomelab.cloud:9981/stream/channelid/1845551366?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/RoTy0Ly.png" tvg-id="e8f7eeefbb76c85d254a5aedcf6a26ab",VTC11
+http://server.vinhhomelab.cloud:9981/stream/channelid/1877932008?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/qAOy5Cd.png" tvg-id="065b0fd3f3ccc5d78df7d7c6c575ca36",VTC12
+http://server.vinhhomelab.cloud:9981/stream/channelid/1393515270?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/489?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="cba2b2dc4b6a550712381016cbe45c66",VTC12
+http://server.vinhhomelab.cloud:9981/stream/channelid/1555210955?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/2RRt2M4.png" tvg-id="6604cc202145e827d279f7eafeb14a9e",VTC13 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/550241382?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/2RRt2M4.png" tvg-id="b40696c697d1c6e0713c86950211a83a",VTC13 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1184237236?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/jlvmYDY.png" tvg-id="a5cb8f7148be0149d39185530794d581",VTC14 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1905249189?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/jlvmYDY.png" tvg-id="bef542bbc23cb2310058f917f22f6e86",VTC14 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/994244030?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/kpD8AAE.png" tvg-id="113b130759ef4273b6aac589913110a9",VTC16 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/118700817?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/kpD8AAE.png" tvg-id="10cbda6458644cf05aaf5bd572ade34d",VTC16 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1692060432?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/490?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="cad2b84467f970c6e92494a5f5525c9c",VTC2
+http://server.vinhhomelab.cloud:9981/stream/channelid/1152963274?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/1FccD2h.png" tvg-id="adc3a3eac0a02dadb4475c960fcf10a2",VTC2
+http://server.vinhhomelab.cloud:9981/stream/channelid/1789117357?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/491?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="0cbf79e66856ffc4c72f367a0d971b7d",VTC3 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1719254796?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/vemNwkI.png" tvg-id="e0dcc807bb70110979ef77f87360e1a0",VTC3 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/130604256?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/vemNwkI.png" tvg-id="b75f40d29fd5b8bf2e07277a738eac09",VTC3 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1379950519?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/0dkRtxJ.png" tvg-id="f769ec1196aae614d06261612729ac9f",VTC4 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/300706295?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/0dkRtxJ.png" tvg-id="cd2ecf7ed8de8cea5fe37adb2667b83f",VTC4 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2127507149?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/IDkKiEa.png" tvg-id="b3368897b459cea8a84a1e1c947dd9d0",VTC5
+http://server.vinhhomelab.cloud:9981/stream/channelid/394802867?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/492?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="0602eeb942a7b0ad850bb826b52509de",VTC5
+http://server.vinhhomelab.cloud:9981/stream/channelid/971899398?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/493?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="fff8b08c03fd7e954cda203d6a44e783",VTC6
+http://server.vinhhomelab.cloud:9981/stream/channelid/212924671?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/rTxMJIB.png" tvg-id="be28e3fc44fe6c3ae67ac6a0dc5dac15",VTC6
+http://server.vinhhomelab.cloud:9981/stream/channelid/2095261886?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/494?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e26230a5223b6d978811494f1fa3ea5a",VTC7
+http://server.vinhhomelab.cloud:9981/stream/channelid/623928034?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/sDWf2Q1.png" tvg-id="9bf3caf601314b391a0440ec6d2b2f8b",VTC7
+http://server.vinhhomelab.cloud:9981/stream/channelid/1993012123?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/495?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="32fa840e188d1c81a7210ee42c9523f0",VTC8
+http://server.vinhhomelab.cloud:9981/stream/channelid/243595826?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/cQ8Ygbk.png" tvg-id="d6092792884551705420af69737a849e",VTC8
+http://server.vinhhomelab.cloud:9981/stream/channelid/304548310?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/QuXPUqi.png" tvg-id="d80db0c4577a1289977e583f53a982dc",VTC9 HD (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1152388568?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://imgur.com/QuXPUqi.png" tvg-id="84d1d8ae3e34d2658e5cb8358c8ad82a",VTC9 HD (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/785961348?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ATJwYik.jpg" tvg-id="d34725b5f3d8e472a0ffd598cad62f85",VTV Cần Thơ (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/891635667?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6047gMa.jpg" tvg-id="2e685313e7b58e3a106685bacfc22140",VTV1 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/324233262?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/6047gMa.jpg" tvg-id="95d96e5e810ab91f330ed67770ae398b",VTV1 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1584322965?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/pqPWPzf.jpg" tvg-id="881909e9aa319d787ba0508d3aea4c72",VTV2 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1762204040?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/496?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c0a9ad71b839ac9489d4853872187214",VTV2 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1907206592?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="42ecfbb488056842509a284368742f15",VTV3 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/888925250?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Bsaeckx.jpg" tvg-id="db534a0e1546e0ee91f3c75a15a75798",VTV3 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/239752155?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/497?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="c4bd7b0f14c1e6906a97794e43a6f704",VTV3 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/259767748?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jWfsKve.png" tvg-id="137a8ff9a01ab544afd702612fe1f6f5",VTV4 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/2039446035?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/jWfsKve.png" tvg-id="e9a1be5f4c222d98e1d4bcb0412cee44",VTV4 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1606328809?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/498?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="9262970bdf2ed3f4fffb2d099ceb1a5f",VTV4 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/194470546?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="58e80e31dfd6e164614c7f8a8262e0c4",VTV5 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/823060568?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/d3dvKNa.jpg" tvg-id="58cf5652e5b0765092affe2625ef584b",VTV5 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1381420888?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/499?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3f9d54de7df020e1ea58d741d54ac9bc",VTV5 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1582603583?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/fCpZa6a.png" tvg-id="2bb140998895e6d1faaf2f45314e3b65",VTV5 Tây Nam Bộ (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/423670059?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/fCpZa6a.png" tvg-id="2d9a99455294c37766546b3562317f18",VTV5 Tây Nam Bộ (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1167694381?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/500?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="bd391aabebbe652112a6ef0c26c60d20",VTV5 Tây Nam Bộ HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/723139005?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/JDN8GJC.png" tvg-id="697299984dd4c061e76f603935a83156",VTV5 Tây Nguyên (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/412709481?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="52bfd6407935bd36cde034a5fe77020a",VTV7 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1087815506?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/qW0MBMH.jpg" tvg-id="fce0161c32ba0d17ae5e0f5d8f0d75c6",VTV7 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/471261436?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/501?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="cdc7156f04fc0aa47d90a5bde8b37fc9",VTV7 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1863698381?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="7ba7408dbeabac81174e34e8c86828a1",VTV8 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/222340987?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7pgnEzG.jpg" tvg-id="ca99d552e28fc280a8a409e7f2539ec0",VTV8 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1389730250?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/502?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="441093989b9e8342d9da4862e59815c4",VTV8 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/412291140?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="7d920b1648e5dcf054a9be2f6d08fb8b",VTV9 (HD 4Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/369857149?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9mL8Ve0.jpg" tvg-id="66bb2990e08b8e396ecf0f8705ab53db",VTV9 (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/271170406?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/503?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="27fafedbb10d755feaf1f30564b0ebc1",VTV9 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1543436839?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/504?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="918834198ccccd9c5f0a4b9ed60c8597",VTVCab11 GS SHOP
+http://server.vinhhomelab.cloud:9981/stream/channelid/422873233?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/505?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="93be4fa39ccb5b4ef2da1e87cc79f2a6",VTVCab13 VTV Hyundai Homeshopping
+http://server.vinhhomelab.cloud:9981/stream/channelid/592428691?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/505?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="90017db782b9af0e66139f674c29698f",VTVCab13 VTV Hyundai Homeshopping
+http://server.vinhhomelab.cloud:9981/stream/channelid/930939280?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/506?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="ebf6889e7cd05e31a2e9b17c40afce1c",Vĩnh Long 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/512292587?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/507?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4fe925efd57a7994de119aaa7d69f22b",Vĩnh Long 2 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1864755535?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/508?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="8edd8c86a547e28d17eb3bd22a557a5b",Vĩnh Long 3 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/109895054?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/509?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="300683944fadd3cb5d745b010b784c8e",Vĩnh Long 4 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/344131120?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/510?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="d18ddfb7224c4d06f0e52bc1d16cdd4c",Vĩnh Phúc HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/937397713?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/511?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="114d102096fc76f39929bd180d919f2c",Vũng Tàu HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/537939217?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/512?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="db264878a0b60d4f395d15ceed334e10",YouTV
+http://server.vinhhomelab.cloud:9981/stream/channelid/2017994459?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/513?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="aa4d25877bce968c483ae930a83160eb",YTV HD _ TH Yên Bái (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/119885226?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/514?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="3fee524aab842f2e4da0cb977fb1b882",Yên Bái
+http://server.vinhhomelab.cloud:9981/stream/channelid/1246948927?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/515?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="757aacbac483f5680e952a12386b9519",Điện Biên
+http://server.vinhhomelab.cloud:9981/stream/channelid/984382069?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/516?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="95c3fbf32eef466e24c4f4809c50c8a1",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1945879445?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/517?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="59642c7d70079be05ce1d23068b64591",ĐNRTV2 HD _ TH Đồng Nai
+http://server.vinhhomelab.cloud:9981/stream/channelid/2100061273?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/518?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="e10d48079a00183e963ad93ba2eabe8e",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/122162657?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/519?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="22743ed9d523181d2f27eba341e95fb1",ĐTV HD _ TH Điện Biên (HD 8Mbps)
+http://server.vinhhomelab.cloud:9981/stream/channelid/1497265186?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/520?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="39a215246b9eb58d6aa8bae21cce7213",Đà Nẵng 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/605397561?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/521?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="a5595ff9f8f2022d8dab9bf7eb5e386e",Đà Nẵng 2 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/2036292005?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/522?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="48489bba91e106bb1b0d244550270291",Đắk Lắk HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/983255112?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/523?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="4ff94090103c5081aec9d7211846d022",Đồng Nai 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/272693583?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/524?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="70f143fe453b91224f2f866a7e0f5336",Đồng Tháp 1 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/2118381936?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
+#EXTINF:-1 logo="http://server.vinhhomelab.cloud:9981/imagecache/525?auth=P03yTapBY.tTw30FWRjtKmk24mRw" tvg-id="6079fb46afcf1abe2c58ecd8a7ac4b31",Đồng Tháp 2 HD
+http://server.vinhhomelab.cloud:9981/stream/channelid/1190885728?auth=P03yTapBY.tTw30FWRjtKmk24mRw&profile=pass
